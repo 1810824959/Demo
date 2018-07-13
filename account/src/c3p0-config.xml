@@ -4,7 +4,7 @@
     <default-config>
         <!-- 配置JDBC 四个基本属性 -->
         <property name ="driverClass" > com.mysql.jdbc.Driver</property>
-        <property name ="jdbcUrl" > jdbc:mysql://localhost:3306/qq_spider</property>
+        <property name ="jdbcUrl" > jdbc:mysql://localhost:3306/account</property>
         <property name ="user" > 1810824959</property>
         <property name ="password" >a19970211</property>
     </default-config> <!-- This app is massive! -->

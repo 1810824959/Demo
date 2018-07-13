@@ -2,7 +2,7 @@ package com.domain;
 
 public class Account {
     private String name;
-    private String money;
+    private double money;
 
     public String getName() {
         return name;
@@ -12,11 +12,11 @@ public class Account {
         this.name = name;
     }
 
-    public String getMoney() {
+    public double getMoney() {
         return money;
     }
 
-    public void setMoney(String money) {
+    public void setMoney(double money) {
         this.money = money;
     }
 
